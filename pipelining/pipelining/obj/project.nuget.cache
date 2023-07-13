@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xO+p6XMD6gjLAgo0Ii3jERBFkBsr67GYSQfrkbkt8EA5B2sQ2rrOiLG3IlkM7eXbmeuPCtbgDQanpwYyew+YDg==",
+  "success": true,
+  "projectFilePath": "F:\\projects\\redis-ru102n\\pipelining\\pipelining\\pipelining.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serka\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\serka\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\serka\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
