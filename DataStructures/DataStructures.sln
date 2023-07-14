@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streams", "Streams\Streams.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuaScripting", "LuaScripting\LuaScripting.csproj", "{D091EA82-CF64-44E5-888D-C6BA9EE1E670}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transactions", "Transactions\Transactions.csproj", "{EBD33697-B24C-4D7F-A5A4-04BC5C0AD328}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D091EA82-CF64-44E5-888D-C6BA9EE1E670}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D091EA82-CF64-44E5-888D-C6BA9EE1E670}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D091EA82-CF64-44E5-888D-C6BA9EE1E670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD33697-B24C-4D7F-A5A4-04BC5C0AD328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD33697-B24C-4D7F-A5A4-04BC5C0AD328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD33697-B24C-4D7F-A5A4-04BC5C0AD328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD33697-B24C-4D7F-A5A4-04BC5C0AD328}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
