@@ -10,10 +10,13 @@ namespace Model
         [RedisIdField]
         [Indexed]
         public string? Id { get; set; }
-        [Indexed]
+
+        [Indexed(Aggregatable = true)]
         public string? EmployeeId { get; set; }
-        [Indexed]
+
+        [Indexed(Aggregatable = true)]
         public int Total { get; set; }
+
         [Indexed(CascadeDepth = 2)]
         public Address? Address { get; set; }
     }

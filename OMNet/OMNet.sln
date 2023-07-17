@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Querying", "Querying\Queryi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateDelete", "UpdateDelete\UpdateDelete.csproj", "{680898FA-4BAD-4121-B12C-3361023A677E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupByReduction", "GroupByReduction\GroupByReduction.csproj", "{882E6441-742D-49BC-88FA-E504AD0FA892}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{680898FA-4BAD-4121-B12C-3361023A677E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{680898FA-4BAD-4121-B12C-3361023A677E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{680898FA-4BAD-4121-B12C-3361023A677E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882E6441-742D-49BC-88FA-E504AD0FA892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882E6441-742D-49BC-88FA-E504AD0FA892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882E6441-742D-49BC-88FA-E504AD0FA892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882E6441-742D-49BC-88FA-E504AD0FA892}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

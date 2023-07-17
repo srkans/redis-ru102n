@@ -13,7 +13,7 @@ namespace Model
         [Indexed]
         public List<string>? Sales { get; set; }
 
-        [Indexed(JsonPath = "$.Location")]
+        [Indexed(JsonPath = "$.Location", Aggregatable = true)]
         [Indexed(JsonPath = "$.PostalCode")]
         public Address? Address { get; set; }
 
@@ -22,5 +22,11 @@ namespace Model
 
         [Indexed(Sortable = true)]
         public int Age { get; set; }
+
+        [Indexed(Aggregatable = true)]
+        public long TotalSales { get; set; }
+
+        [Indexed(Aggregatable = true)]
+        public double SalesAdjustment { get; set; }
     }
 }
