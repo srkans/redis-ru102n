@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMNet", "OMNet\OMNet.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{C8CB6565-CCF6-4479-8925-95366C5B26A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectInsertion", "ObjectInsertion\ObjectInsertion.csproj", "{623DE5B0-B5B8-4A23-9823-E044232B8479}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C8CB6565-CCF6-4479-8925-95366C5B26A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8CB6565-CCF6-4479-8925-95366C5B26A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8CB6565-CCF6-4479-8925-95366C5B26A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623DE5B0-B5B8-4A23-9823-E044232B8479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623DE5B0-B5B8-4A23-9823-E044232B8479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623DE5B0-B5B8-4A23-9823-E044232B8479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623DE5B0-B5B8-4A23-9823-E044232B8479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
