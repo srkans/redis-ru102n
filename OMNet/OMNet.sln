@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectInsertion", "ObjectInsertion\ObjectInsertion.csproj", "{623DE5B0-B5B8-4A23-9823-E044232B8479}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Querying", "Querying\Querying.csproj", "{A06952C0-7CAE-4CE8-91C4-603943206918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateDelete", "UpdateDelete\UpdateDelete.csproj", "{680898FA-4BAD-4121-B12C-3361023A677E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{623DE5B0-B5B8-4A23-9823-E044232B8479}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{623DE5B0-B5B8-4A23-9823-E044232B8479}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{623DE5B0-B5B8-4A23-9823-E044232B8479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06952C0-7CAE-4CE8-91C4-603943206918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06952C0-7CAE-4CE8-91C4-603943206918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06952C0-7CAE-4CE8-91C4-603943206918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06952C0-7CAE-4CE8-91C4-603943206918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680898FA-4BAD-4121-B12C-3361023A677E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680898FA-4BAD-4121-B12C-3361023A677E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680898FA-4BAD-4121-B12C-3361023A677E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680898FA-4BAD-4121-B12C-3361023A677E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
